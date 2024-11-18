@@ -1,0 +1,6 @@
+*.html
+*.json
+*.png
+*.log
+__pycache__/
+*.py[cod]
